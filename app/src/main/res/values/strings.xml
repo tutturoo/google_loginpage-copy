@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">google_loginpage-copy</string>
+    <string-array name="operatorListsArray">
+        <item>Addition</item>
+        <item>Subtraction</item>
+        <item>Multiplication</item>
+        <item>Division</item>
+    </string-array>
+</resources>
