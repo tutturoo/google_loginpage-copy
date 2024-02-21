@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
         emailNextButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(MainActivity.this, PasswordAttemptActivity.class);
+                Intent intent = new Intent(MainActivity.this, favorit_aktifvitas_makanan.class);
 
                 if( !(emailAttempt.getText().toString().equals(email)) ){
                     errorAttempt.setError("Email is incorrect! Please try again!");

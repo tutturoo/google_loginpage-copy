@@ -6,4 +6,37 @@
         <item>Multiplication</item>
         <item>Division</item>
     </string-array>
+    <string-array name="txt_header_list">
+        <item>Harga Minyak Dunia Terjun Bebas, Anjlok 5% Lebih!</item>
+        <item>Gempa Bumi Bermagnitudo 6,2 Guncang Jawa Barat, Terasa di Jakarta!</item>
+        <item>Kasus Covid-19 Kembali Naik, Pemerintah Berlakukan PPKM Level 3!</item>
+        <item>Puluhan Ribu Warga Terdampak Banjir di Jawa Tengah, BPBD Siaga!</item>
+        <item>Presiden Jokowi Resmikan Tol Semarang-Demak, Seksi 1 dan 2 Siap Dilalui!</item>
+        <item>Timnas Indonesia Menang Telak Melawan Brunei Darussalam di Piala AFF!</item>
+        <item>Harga Bahan Pokok Naik Jelang Ramadhan, Pemerintah Gelar Pasar Murah!</item>
+        <item>Kebakaran Pabrik di Tangerang, Petugas Damkar Berjibaku Melawan Api!</item>
+        <item>Peluncuran iPhone 15 di Indonesia, Antusiasme Penggemar Tinggi!</item>
+    </string-array>
+    <string-array name="txt_publisher_list">
+        <item>Kompas</item>
+        <item>Detik</item>
+        <item>Tempo</item>
+        <item>CNN Indonesia</item>
+        <item>Republika</item>
+        <item>Liputan6</item>
+        <item>CNBC Indonesia</item>
+        <item>Antara</item>
+        <item>Jawa Pos</item>
+        <item>Tribunnews</item>
+    </string-array>
+    <string-array name="txt_upload_date_list">
+    <item>Rabu, 21 Februari 2024</item>
+    <item>Rabu, 21 Februari 2024</item>
+    <item>Rabu, 21 Februari 2024</item>
+    <item>Selasa, 20 Februari 2024</item>
+    <item>Senin, 19 Februari 2024</item>
+    <item>Minggu, 18 Februari 2024</item>
+    <item>Sabtu, 17 Februari 2024</item>
+    <item>Jumat, 16 Februari 2024</item>
+    </string-array>
 </resources>
